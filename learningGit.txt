@@ -1,3 +1,4 @@
 
 Learning Git is fun
-Adding new line to get diffrences
+
+Working in Git Repository and cloning
