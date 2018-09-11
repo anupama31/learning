@@ -1,3 +1,7 @@
 Hi This` chnage is for feature branch
+
 updating in master branch and check if stash function works
+
+
+This is the changes to stash and check.
 
